@@ -1,0 +1,11 @@
+.header {
+  background-image: url("https://websitedemos.net/lotus-spa-02/wp-content/uploads/sites/936/2021/08/lotus-spa-template-hero-img-bg.png");
+  background-position: bottom right;
+  background-repeat: no-repeat;
+  background-size: 60vw auto;
+}
+@media (max-width: 768px) {
+  .header {
+    background-size: 100vw auto;
+  }
+}
